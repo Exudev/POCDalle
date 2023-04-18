@@ -1,0 +1,10 @@
+created a conda enviorement, then i downloaded the next few 
+
+
+Referencias
+https://realpython.com/generate-images-with-dalle-openai-api/#complete-the-setup-requirements
+
+Note: OpenAI’s API services are changing rapidly. You should check their web page for up-to-date information about pricing and offers.
+
+data: here lies the image, in a Base64-encoded format
+images: here lies the images, that were converted using imageConverter.py
